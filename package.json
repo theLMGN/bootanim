@@ -1,6 +1,6 @@
 {
   "name": "bootanim",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Android bootanimation.zip desc.txt parser for NodeJS",
   "main": "pkg.js",
   "scripts": {
