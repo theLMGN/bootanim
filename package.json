@@ -1,0 +1,24 @@
+{
+  "name": "bootanim",
+  "version": "1.0.0",
+  "description": "Android bootanimation.zip desc.txt parser for NodeJS",
+  "main": "pkg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thelmgn/bootanim.git"
+  },
+  "keywords": [
+    "android",
+    "bootanim",
+    "parser"
+  ],
+  "author": "theLMGN",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/thelmgn/bootanim/issues"
+  },
+  "homepage": "https://github.com/thelmgn/bootanim#readme"
+}
